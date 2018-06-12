@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-      I'm the home component
+      I'm the a very BEST home component!!!
     </div>
   )
 };
